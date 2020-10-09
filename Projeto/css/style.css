@@ -1,6 +1,6 @@
-div #master{
+div .master{
     border-radius: 12px;
-    background-color: bisque;
+    background-color: rgb(194, 33, 27);
     width: 50%;
     height: 40% ;
 
